@@ -6,4 +6,4 @@ for _ in range(n):
     sum_val += num
 
 # print(sum_val, "%.1f" %(sum_val/n))
-print(f"{sum_val} {avg:.1f}")
+print(f"{sum_val} {sum_val/n:.1f}")
