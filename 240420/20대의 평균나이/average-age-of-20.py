@@ -1,11 +1,11 @@
-sum, cnt = 0, 0
+sum_val, cnt = 0, 0
 
 while True:
     age = int(input())
     if age >= 30:
         break
     else:
-        sum += age
+        sum_val += age
         cnt += 1
 
 # print(f"{sum/cnt:.2f}")
