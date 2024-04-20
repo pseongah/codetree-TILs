@@ -2,7 +2,7 @@ sum_val, cnt = 0, 0
 
 while True:
     age = int(input())
-    if age >= 30:
+    if age < 20 or age >= 30:
         break
     else:
         sum_val += age
