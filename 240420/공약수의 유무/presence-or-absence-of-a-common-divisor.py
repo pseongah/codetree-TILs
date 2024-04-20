@@ -6,6 +6,6 @@ for i in range(a, b+1):
         sat = True
 
 if sat:
-    print("1")
+    print(1)
 else:
-    print("0")
+    print(0)
