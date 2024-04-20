@@ -9,4 +9,4 @@ while True:
         cnt += 1
 
 # print(f"{sum/cnt:.2f}")
-print("%.2f" %(sum/cnt))
+print("%.2f" %(sum_val/cnt))
