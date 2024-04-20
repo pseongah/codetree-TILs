@@ -7,4 +7,5 @@ while True:
     sum += age
     cnt += 1
 
-print(f"{sum/cnt:.2f}")
+# print(f"{sum/cnt:.2f}")
+print("%.2f" %(sum/cnt))
